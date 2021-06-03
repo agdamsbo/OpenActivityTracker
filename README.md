@@ -1,11 +1,13 @@
+_Please see this document as a working document or brainstorm._
+
 # OpenActivityTracker (OpenATrack?)
 More focus is put on physical activity (PA) as a way of preventning diseases and improving mental health.
 For several years pedometers has been widely available and witing the last decade more dedicated fitness and healthtrackers or wearables have gained traction. Most recently heart rate monitoring (photoplethysmopgraph, PPG) has been made available to consumers. Multiple commercial trackers are available with different degrees of closed data and software.
 
-In clinical vascular neuroscience physical activity is gaining increased focus. In this group of patients (like many others) it is difficult to get a reliable measure from questionaires alone. And the meassure of physical activity is concerned with everyday activities, and not VO2-max on a tread mill. For reasearch, a reliable non-intrusive tracker of PA would improve the insights as to the possible beneficial effect of PA, and also what kind and degree of PA.
+In clinical vascular neuroscience physical activity is gaining increased focus. In this group of patients (like many others) it is difficult to get a reliable measure from questionaires alone. And the meassure of physical activity is concerned with everyday activities, and not VO2-max on a treadmill. For reasearch, a reliable non-intrusive tracker of PA would improve the insights as to the possible beneficial effect of PA, and also what kind and degree of PA.
 
 ## Goal
-An open activity tracker as in open software, open design and open process.
+An open activity tracker as in open software, open design and open process..
 
 ## Wish list
 
@@ -53,3 +55,11 @@ Open SmartWatch (https://open-smartwatch.github.io) | Smartwatch. Schematics ava
 # Open issues with open projects
 - CE certification for usage
 - more..
+
+# Possible roads
+The following are just loose thoughts in an attempt to get a grip on the options available.
+
+- Start with a new project from scratch.
+- Fork the PineTime project and develop an essential version with only sensors and no display for optimised battery.
+- Convert the OpenHAK project to a new chip technology.
+- Forget about the open hardware and by a commercial project and export the data available.
