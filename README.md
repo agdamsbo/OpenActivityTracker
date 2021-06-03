@@ -1,4 +1,4 @@
-# OpenActivityTracker (OpenATrack)
+# OpenActivityTracker (OpenATrack?)
 More focus is put on physical activity (PA) as a way of preventning diseases and improving mental health.
 For several years pedometers has been widely available and witing the last decade more dedicated fitness and healthtrackers or wearables have gained traction. Most recently heart rate monitoring (photoplethysmopgraph, PPG) has been made available to consumers. Multiple commercial trackers are available with different degrees of closed data and software.
 
