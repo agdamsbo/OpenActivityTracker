@@ -37,16 +37,21 @@ Withings ScanWatch | Regular watch look. Tracks activity, heart rate and SpO2. 3
 Withings Pulse HR | Tracker. Simple. | CSV export from cloud
 
 ### Open projects
-I have tried 
+I have collected an overview of different tracker options.
 
 Name and link | Description | Comments
 ------------ | ------------- | -------------
-AX3/AX6, Openmovement (https://github.com/digitalinteraction/openmovement) | Accelerometer only. No PPG. Developed for research at Newcastle University. | Project seems stalled. Maybe related to Brexit? Sample data available, dated 2013. Data format compatible by the GGIR package for R.
 OpenHAK (https://www.openhak.com) | Tracker with optional screen. Simple. All schematics available. | Simblee chip has been terminated.
 Emotibit (https://www.emotibit.com) | Tracker. Based on adafruit feather. Open software. A lot of sensors. | Bulky when wearing for extended period. No hardware schematics available.
 PineTime (https://www.pine64.org/pinetime/) | Open software, data export and hardware scematics. 3-5 days batterylife. | Smartwatch. 
 Bangle.js (https://banglejs.com) | No schematics available. | Smartwatch
 Open SmartWatch (https://open-smartwatch.github.io) | Schematics available. DIY-kit. No consumer product. | Smartwatch. 
+
+#### Open or semi-open projects with research focus, but no PPG
+Name and link | Description | Comments
+------------ | ------------- | -------------
+AX3/AX6, Openmovement (https://github.com/digitalinteraction/openmovement) | Accelerometer only. No PPG. Developed for research at Newcastle University. | Project seems stalled. Maybe related to Brexit? Sample data available, dated 2013. Data format compatible by the GGIR package for R.
+MMS, MbientLab (https://mbientlab.com) | Four different trackers inkl KITs. No hardware schematics. | Open software, not hardware. US-based, San Fransisco.
 
 ## Other projects of interest
 
