@@ -39,19 +39,21 @@ Withings Pulse HR | Tracker. Simple. | CSV export from cloud
 ### Open projects
 I have tried 
 
-Name and link | Comments
------------- | -------------
-Openmovement (https://github.com/digitalinteraction/openmovement) | Open trackers developed for research at Newcastle University. Project seems stalled. Maybe related to Brexit? No PPG. Sample data available, dated 2013.
-OpenHAK (https://www.openhak.com) | Tracker with optional screen. Simple. Simblee chip has been terminated. All schematics available.
-Emotibit (https://www.emotibit.com) | Tracker. Based on arduino feather. Open software. A lot of sensors. Bulky when wearing for extended period. No hardware schematics available.
-PineTime (https://www.pine64.org/pinetime/) | Smartwatch. Open software, data export and hardware scematics. 3-5 days batterylife.
-Bangle.js (https://banglejs.com) | Smartwatch. No schematics available.
-Open SmartWatch (https://open-smartwatch.github.io) | Smartwatch. Schematics available. DIY-kit. No consumer product.
+Name and link | Description | Comments
+------------ | ------------- | -------------
+AX3/AX6, Openmovement (https://github.com/digitalinteraction/openmovement) | Accelerometer only. No PPG. Developed for research at Newcastle University. | Project seems stalled. Maybe related to Brexit? Sample data available, dated 2013. Data format compatible by the GGIR package for R.
+OpenHAK (https://www.openhak.com) | Tracker with optional screen. Simple. All schematics available. | Simblee chip has been terminated.
+Emotibit (https://www.emotibit.com) | Tracker. Based on adafruit feather. Open software. A lot of sensors. | Bulky when wearing for extended period. No hardware schematics available.
+PineTime (https://www.pine64.org/pinetime/) | Open software, data export and hardware scematics. 3-5 days batterylife. | Smartwatch. 
+Bangle.js (https://banglejs.com) | No schematics available. | Smartwatch
+Open SmartWatch (https://open-smartwatch.github.io) | Schematics available. DIY-kit. No consumer product. | Smartwatch. 
 
 ## Other projects of interest
 
 - GNU Health (https://gnuhealth.org/index.html)
   - A full open source health suite for institutions and individuals. Support for the PineTime watch is pending and other open hardware and open source health trackers.
+- Openmovement (https://github.com/digitalinteraction/openmovement
+  - Open source project from Newcastle University, UK. Devices used for major UK trials and biobank data. Project possibly stopped?
 
 # Open issues with open projects
 - CE certification for usage
