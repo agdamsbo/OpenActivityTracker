@@ -41,7 +41,7 @@ I have tried
 
 Name and link | Comments
 ------------ | -------------
-Openmovement (https://github.com/digitalinteraction/openmovement) | Open trackers developed for research at Newcastle University. Project seems stalled. Maybe related to Brexit? No PPG.
+Openmovement (https://github.com/digitalinteraction/openmovement) | Open trackers developed for research at Newcastle University. Project seems stalled. Maybe related to Brexit? No PPG. Sample data available, dated 2013.
 OpenHAK (https://www.openhak.com) | Tracker with optional screen. Simple. Simblee chip has been terminated. All schematics available.
 Emotibit (https://www.emotibit.com) | Tracker. Based on arduino feather. Open software. A lot of sensors. Bulky when wearing for extended period. No hardware schematics available.
 PineTime (https://www.pine64.org/pinetime/) | Smartwatch. Open software, data export and hardware scematics. 3-5 days batterylife.
